@@ -1,0 +1,1 @@
+web: node corsStreamer.js
